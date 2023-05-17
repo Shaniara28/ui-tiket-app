@@ -4,7 +4,7 @@
 </div>
   <h3 align="center">BuroQ App</h3>
   <p align="center">
-    <a href="https://github.com/mhmdiamd/ui-tiket-app"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Shaniara28/ui-tiket-app"><strong>Explore the docs »</strong></a>
     <br />
     <a href="https://buroq.vercel.app/">View Demo</a>
     ·
@@ -56,7 +56,7 @@ This is an example of how to list things you need to use the software and how to
 - Clone This Front End Repo
 
 ```
-git clone https://github.com/mhmdiamd/ui-tiket-app
+git clone https://github.com/Shaniara28/ui-tiket-app
 ```
 
 - Go To Folder Repo
@@ -161,7 +161,7 @@ Contributions are what make the open source community such an amazing place to b
 
 :rocket: [`Backend BuroQ`](https://github.com/mhmdiamd/restapi-tiket-app)
 
-:rocket: [`Frontend BuroQ`](https://github.com/mhmdiamd/ui-tiket-app)
+:rocket: [`Frontend BuroQ`](https://github.com/Shaniara28/ui-tiket-app)
 
 :rocket: [`Demo BuroQ`](https://buroq.vercel.app/)
 
@@ -181,31 +181,31 @@ Contributions are what make the open source community such an amazing place to b
     <tr >
       <td align="center">
         <a href="https://github.com/mhmdiamd">
-          <img width="200"  src="./documentation/member/ilham.png" alt=""><br/>
+          <img width="200"  src="./documentation/member/ilham.png" alt="Muhamad Ilham Darmawan"><br/>
           <b>Muhamad Ilham Darmawan</b>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Shaniara28">
-          <img width="200"  src="./documentation/member/shania.png" alt=""><br/>
-          <b>Shania Rizky Agustin</b>
+          <img width="200"  src="./documentation/member/shania.png" alt="Shania Risky Agustin"><br/>
+          <b>Shania Risky Agustin</b>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Dhimasswara">
-          <img width="200"  src="./documentation/member/dhimas.jpg" alt=""><br/>
+          <img width="200"  src="./documentation/member/dhimas.jpg" alt="Dhimas Pandu Yogaswara"><br/>
           <b>Dhimas Pandu Yogaswara</b>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/ikkair">
-          <img width="200"   src="./documentation/member/kamal.jpg" alt=""><br/>
+          <img width="200"   src="./documentation/member/kamal.jpg" alt="Ikhlasul Kamal Irmansyah"><br/>
           <b>Ikhlasul Kamal Irmansyah</b>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/VerdyNordsten">
-          <img width="200"  src="./documentation/member/verdy.png" alt=""><br/>
+          <img width="200"  src="./documentation/member/verdy.png" alt="Verdy Prido Lughara"><br/>
           <b>Verdy Prido Lughara</b>
         </a>
       </td>
@@ -213,4 +213,9 @@ Contributions are what make the open source community such an amazing place to b
   </table>
 </center>
 
-Project Link: [https://github.com/mhmdiamd/ui-tiket-app](https://github.com/mhmdiamd/ui-tiket-app)
+<!-- CONTACT -->
+
+## Contact
+My Email : saniarizkiagustin@gmail.com
+<br/>
+Project Link: [https://github.com/Shaniara28/ui-tiket-app](https://github.com/Shaniara28/ui-tiket-app)
