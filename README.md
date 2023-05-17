@@ -159,7 +159,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Related Project
 
-:rocket: [`Backend BuroQ`](https://github.com/mhmdiamd/restapi-tiket-app)
+:rocket: [`Backend BuroQ`](https://github.com/Shaniara28/be-tiket-app)
 
 :rocket: [`Frontend BuroQ`](https://github.com/Shaniara28/ui-tiket-app)
 
